@@ -22,6 +22,3 @@ present insights using Python and data analysis techniques.
 - nba_api
 - Jupyter Notebook / VS Code
 - GitHub
-
-## Project Status
-Initial setup completed. Data collection and analysis in progress.
