@@ -1,7 +1,7 @@
 # nba-final-project
 
 ## Project Description
-This project analyzes NBA team performance using data pulled from the official NBA API (`nba_api`). 
+This project analyzes NBA team performance using data pulled from the basketball reference. 
 The goal of the project is to collect, clean, and analyze game-level data for selected NBA teams and 
 present insights using Python and data analysis techniques.
 
@@ -19,6 +19,5 @@ present insights using Python and data analysis techniques.
 ## Tools & Technologies
 - Python
 - pandas
-- nba_api
 - Jupyter Notebook / VS Code
 - GitHub
