@@ -6,7 +6,7 @@ The goal of the project is to collect, clean, and analyze game-level data for se
 present insights using Python and data analysis techniques.
 
 ## Data Source
-- nba_api (https://github.com/swar/nba_api)
+- basketball reference
 - NBA team game results from the 2019–2020 season
 
 ## Planned Features
